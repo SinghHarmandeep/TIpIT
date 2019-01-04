@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        //billField.becomeFirstResponder()
+        billField.becomeFirstResponder()
     }
 
     //the tap gesture to quit the keyboard
