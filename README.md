@@ -38,7 +38,7 @@ As it was my first time working on an IOS project, The most time was spent on le
 
 ## License
 
-Copyright [2019] [Harmandeep Singh]
+Copyright 2019 Harmandeep Singh
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
